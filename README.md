@@ -24,6 +24,9 @@ That said [try out the online demo](http://kzar.co.uk/static/davesteppa), it use
 # Aims
  - [x] Get project set up.
  - [x] Get basic drum machine working.
+ - [ ] Display sounds key in proper order.
+ - [ ] Visual indicator of position?
+ - [ ] How should flams and the like work?
  - [ ] Write code to reset position sometimes.
  - [ ] Figure out how to overlap sounds so we can increase tempo.
  - [ ] Change tempo field to use BPM.
@@ -31,6 +34,7 @@ That said [try out the online demo](http://kzar.co.uk/static/davesteppa), it use
  - [ ] Confirm usage terms of the sound effects, possibly record new ones.
  - [ ] Set up system for storing and sharing songs.
  - [ ] Spec out a file format for stored songs and allow the raw file to be downloaded.
+ - [ ] Add way to define and choose sound packs.
 
 # License
 
