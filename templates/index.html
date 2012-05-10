@@ -1,0 +1,24 @@
+<div>
+  <h3>Davesteppa</h3>
+  <p>Welcome to Davesteppa, experimental drum machine written in <a href="https://github.com/clojure/clojurescript">Clojurescript</a>. Sounds are property of <a href="http://www.tubabmuso.nl/english/djembe-samples.htm">Tuab Muso</a>. <a href="http://github.com/kzar/davesteppa">(Source code is on GitHub.)</a></p>
+
+<div class="input">
+  <label id="music-input-label">
+    <span>Music:</span>
+    <textarea colls="20" rows="10" id="music-input">
+s--ss-tt
+!--!--!---!-!---
+    </textarea>
+    <input type="submit" value="Play/Stop" id="start-stop-button" />
+  </label>
+  <label id="tempo-input-label">
+    <span>Tempo:</span>
+    <input value="300" type="text" id="tempo-input" />
+  </label>
+</div>
+
+<div>
+  <h3>Key</h3>
+  <ul id="music-key-list">
+  </ul>
+</div>

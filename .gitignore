@@ -1,0 +1,8 @@
+/docs/
+/lib/
+/public/javascripts/
+/.repl/
+/classes/
+/wiki
+*~
+/.lein-*
